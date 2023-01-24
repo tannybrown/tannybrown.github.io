@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `개발자`,
       description: ['음악을 만드는', '사유의 가치를 아는', '사람의 가치를 아는'],
-      thumbnail: 'sample.png', // Path to the image in the 'asset' folder
+      thumbnail: 'ai.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/tannybrown`, // `https://github.com/zoomKoding`,
@@ -43,8 +43,8 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2022.01 ~',
-        activity: '개인 블로그 시작',
+        date: '2023.01 ~',
+        activity: '블로그 시작',
         links: {
           post: '',
           github: '',
