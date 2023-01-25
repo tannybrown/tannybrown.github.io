@@ -13,8 +13,8 @@ module.exports = {
   author: {
     name: `김태환`,
     bio: {
-      role: `개발자&작곡가`,
-      description: ['음악을 만드는', '사유의 가치를 아는', '사람에 가치를 두는'],
+      role: `개발자`,
+      description: ['작곡가이자', '사유의 가치를 아는', '사람에 가치를 두는'],
       thumbnail: 'ai.png', // Path to the image in the 'asset' folder
     },
     social: {
