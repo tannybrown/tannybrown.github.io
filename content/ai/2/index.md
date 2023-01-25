@@ -35,7 +35,7 @@ categories: AI/ML/DL
 ![image](https://user-images.githubusercontent.com/121401159/214620268-a93ffe75-9ec1-4455-8a9d-462bd0ec13e2.png)<br>
 
 사진이 숫자라니? 이해가 가지 않을 사람도 있을 수 있으니 조금만 더 생각해보면 다음과 같다.<br>
-![image](https://user-images.githubusercontent.com/121401159/214626364-98147c6f-e866-4ec7-b958-d66d1f6b1b11.png) <
+![image](https://user-images.githubusercontent.com/121401159/214626364-98147c6f-e866-4ec7-b958-d66d1f6b1b11.png) 
 
 우리가 보는 모니터의 화면은 **픽셀**로 이루어져 있다. 그리고 그 픽셀은 3개의 필터(RGB)로 이루어져 있다.<br>
 RGB필터의 값은 0~255로 나타나며, RGB필터의 값들의 비율에 따라 한 픽셀의 색이 구현되고, 그 픽셀들이 모여 화면을 이룬다.
