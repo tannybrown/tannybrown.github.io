@@ -1,7 +1,7 @@
 ---
 emoji: 
 title: 1. 딥러닝 기본 모델 소개
-date: `2023-01-26 00:00:00`
+date: '2023-01-26 00:00:00'
 author: tanny
 tags: 
 categories: AI/ML/DL
