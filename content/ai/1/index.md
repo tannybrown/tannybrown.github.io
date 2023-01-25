@@ -1,6 +1,6 @@
 ---
 emoji: 
-title: 0. 인공지능이란 무엇인가
+title: [AI] 0. 인공지능이란 무엇인가
 date: '2023-01-25 00:00:00'
 author: tanny
 tags: 

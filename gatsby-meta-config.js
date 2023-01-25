@@ -13,8 +13,8 @@ module.exports = {
   author: {
     name: `김태환`,
     bio: {
-      role: `개발자`,
-      description: ['음악을 만드는', '사유의 가치를 아는', '사람의 가치를 아는'],
+      role: `개발자&작곡가`,
+      description: ['음악을 만드는', '사유의 가치를 아는', '사람에 가치를 두는'],
       thumbnail: 'ai.png', // Path to the image in the 'asset' folder
     },
     social: {
@@ -43,12 +43,12 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2023.01 ~',
-        activity: '블로그 시작',
+        date: '2017.03 ~',
+        activity: '한양대학교 컴퓨터 소프트웨어학부 입학',
         links: {
           post: '',
           github: '',
-          demo: 'https://tannybrown.github.io/',
+          demo: '',
         },
       },
     ],
