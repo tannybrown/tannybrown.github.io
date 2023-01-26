@@ -40,7 +40,7 @@ DLL은 직역하면 깊은 신경망을 의미하는데, 이는 나중에 자세
 <br><br>
 
 이번 글에서는 AI에 대해 얕게 살펴보았다.
-다음글에서는 DL의 대표적인 모델(CNN,RNN,GAN)에 대해 소개하겠다.
+[다음글](https://tannybrown.github.io/ai/2/)에서는 DL의 대표적인 모델(CNN,RNN,GAN)에 대해 소개하겠다.
 
 ```toc
 

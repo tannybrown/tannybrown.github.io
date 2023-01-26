@@ -108,7 +108,7 @@ GAN 모델은 deepfake, 이미지 생성 기술 등에 사용된다. <br>
 
 ![image](https://user-images.githubusercontent.com/121401159/214604332-788f93ab-6517-4f54-9f0e-da45d967e7fe.png)<br>
 이번 시간엔 딥러닝을 대표하는 3가지 모델에 대해 살펴보았다. <br>
-다음글에서는 머신러닝의 분류에 대해서 살펴보자.
+[다음글](https://tannybrown.github.io/ai/3/)에서는 머신러닝의 분류에 대해서 살펴보자.
 
 ```toc
 
