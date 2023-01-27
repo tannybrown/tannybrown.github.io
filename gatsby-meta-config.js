@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Tanny's Labatory`,
+  title: `Tanny's Laboratory`,
   description: `태니의 연구실`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://tannybrown.github.io/`,
