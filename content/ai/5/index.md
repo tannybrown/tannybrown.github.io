@@ -57,7 +57,7 @@ Loss는 이름에서 알 수 있듯, 작을 수록 좋다. 이 Loss의 값을 **
 <br>
 **무지성 대입**을 시도할 수도 있지만, 지성인으로서 스마트한 방법을 생각해보자.<br>
 우린 크게 두가지 방법을 사용할 수 있다.
-- **Analytical method **
+- **Analytical method**
 - **Numerical method**
 먼저 Analytic method는 수학적 접근이다. 직접 손으로 식을 써서 수학을 통해 문제를 해결한다. 반대로, Numerical method는 수치해석적 방식으로, 컴퓨터를 이용해 문제를 해결한다.<br>
 그리고 우리가 해결할 대부분의 경우에, Numerical method를 사용하게 될 것이다.
@@ -68,8 +68,8 @@ Analytical methods는 수학적 방법을 사용하여 문제를 해결하므로
 따라서 Numerical method가 더 많이 쓰인다.
 > 필자는 언제나 말하지만, 어떤 하나의 방법을 고수하는 것은 옳지 않다고 생각한다. 모든 방법엔 trade-off가 있고, **주어진 상황에 알맞은 방법을 취사선택하는 것이 엔지니어가 가져야할 자세**이다.
 
-Numerical method를 통해 w와 b의 값을 찾을 수 있다는 것을 알았다.<br><br>
-다음시간엔, 선형회귀에서 쓰이는 Numerical method, **Gradient Descent**에 대해 알아보자!  
+Numerical method를 통해 w와 b의 값을 찾을 수 있다는 것까지 알았다.<br><br>
+다음글에서, 선형회귀에서 쓰이는 Numerical method, **Gradient Descent**에 대해 알아보자!  
 
 
 ```toc
