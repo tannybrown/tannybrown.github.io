@@ -68,6 +68,10 @@ Analytical methods는 수학적 방법을 사용하여 문제를 해결하므로
 따라서 Numerical method가 더 많이 쓰인다.
 > 필자는 언제나 말하지만, 어떤 하나의 방법을 고수하는 것은 옳지 않다고 생각한다. 모든 방법엔 trade-off가 있고, **주어진 상황에 알맞은 방법을 취사선택하는 것이 엔지니어가 가져야할 자세**이다.
 
-Numerical method가 많이 쓰인다고 하니, 선형회귀에서 쓰이는 Numerical method, **Gradient Descent**에 대해 다음시간에 알아보자!  
+Numerical method를 통해 w와 b의 값을 찾을 수 있다는 것을 알았다.<br><br>
+다음시간엔, 선형회귀에서 쓰이는 Numerical method, **Gradient Descent**에 대해 알아보자!  
 
 
+```toc
+
+```
