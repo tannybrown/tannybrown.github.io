@@ -59,6 +59,8 @@ Loss는 이름에서 알 수 있듯, 작을 수록 좋다. 이 Loss의 값을 **
 우린 크게 두가지 방법을 사용할 수 있다.
 - **Analytical method**
 - **Numerical method**
+
+
 먼저 Analytic method는 수학적 접근이다. 직접 손으로 식을 써서 수학을 통해 문제를 해결한다. 반대로, Numerical method는 수치해석적 방식으로, 컴퓨터를 이용해 문제를 해결한다.<br>
 그리고 우리가 해결할 대부분의 경우에, Numerical method를 사용하게 될 것이다.
 > **왜** Analytical method는 많이 안쓰이나요?
