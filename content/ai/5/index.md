@@ -44,14 +44,14 @@ categories: AI/ML/DL
 (reference : https://gilberttanner.com/blog/linear-regression-explained)<br><br>
 x축이 공부시간, y축이 시험 점수이고 다음과 같은 data(점)들이 존재한다고 할때, x와 y의 선형관계를 빨간 직선으로 표현할 수 있다.<br>
 선형관계를 잘 표현한 적절한 빨간 직선을 찾는 것이 바로 **학습**이다.<br>
-아마 위 직선은 다음과 같이 표현할 수 있다.<br>
+위 직선은 다음과 같이 표현할 수 있다.<br>
 ![image](https://user-images.githubusercontent.com/121401159/215274972-af0916e9-f458-41df-945c-8c28b6e2c7a5.png)<br>
 y위의 ^(hat)이 있는 이유는 **실제 y값**이 아닌 **예측된 y값**이라는 의미이다.<br>
 또한 앞선 글에서 배운 파라미터와 bias를 확인할 수 있다.<br>
 학습 방법은 매우 간단하다. 먼저 Loss(cost)를 정의한다. 이 경우 Loss로 MSE를 써보자.<br>
 > MSE는 mean square error의 약자로, (예측값과 실제 값의 차)의 제곱의 합을 의미한다.
 
-Loss는 이름에서 알 수 있듯, 작을 수록 좋다. 이 Loss의 값을 최소로 만드는 w와 b를 찾으면, 학습이 끝난다.<br>
+Loss는 이름에서 알 수 있듯, 작을 수록 좋다. 이 Loss의 값을 **최소**로 만드는 w와 b를 찾으면, 학습이 끝난다.<br>
 자 그러면, w와 b를 어떻게 찾을 수 있을까?<br>
 ![image](https://user-images.githubusercontent.com/121401159/215275914-56118e3d-78ed-4549-98ff-010e90810eef.png)<br>
 <br>
