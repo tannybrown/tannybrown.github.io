@@ -49,7 +49,7 @@ bias도 결국 parameter이다. 즉, 같은 방식인데 bias 에 대해서 같�
 두번째로 Local Minimum을 찾는 알고리즘이라는 것이다.<br>
 ![image](https://user-images.githubusercontent.com/121401159/216072186-48307436-a632-4a7a-9a5d-7eeaa6b781a5.png)<br>
 
-우리가 알고싶은 것은 global minimum이다. 만약 위와 같은 loss가 주어진다면, 원하는 최저값에 도달하지 못할 수 있다.<br>
+우리가 알고싶은 것은 global minimum이다. 만약 위와 같은 loss가 주어진다면, 원하는 최저값에 도달하지 못할 수 있다.(**즉, 초기값에 따라 결과가 달라질 것이다**.)<br>
 즉, convex한 문제에서만 적용이 가능하다.
 > 알고리즘 공부를 한사람이라면, 눈치챘을 것이다. Gradient Descent는 greedy 하다.
 <br><br>
