@@ -16,7 +16,7 @@ categories: AI/ML/DL
 
 <br><br>
 ## 1. 직관적 이해
-Gradient Descent는 직역하면, 경사하강법이다. 이 방법은 **Loss가 줄어드는 방향**을 찾아 파라미터와 bias를 업데이트 하는 방법이라고 할 수 있다.<br>
+Gradient Descent는 직역하면, 경사하강법이다.<br> 이 방법은 **Loss가 줄어드는 방향**을 찾아 파라미터와 bias를 업데이트 하는 방법이라고 할 수 있다.<br>
 예시를 통한 직관적 이해를 해보자.<br>
 ![image](https://user-images.githubusercontent.com/121401159/216073365-d46b5057-690c-4186-b7b8-9727fefb9778.png)<br>
 > 그림퀄리티가 상당하다 <br>
