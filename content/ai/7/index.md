@@ -102,4 +102,6 @@ Gradient Descent의 여러가지 버전에 대해 알아보았다.<br>
 다음글에서는 mini-batch SGD에서 파생된 알고리즘들에 대해 알아보자.
 
 
+```toc
 
+```
