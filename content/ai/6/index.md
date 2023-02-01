@@ -57,12 +57,7 @@ bias도 결국 parameter이다. 즉, 같은 방식인데 bias 에 대해서 같�
 이번글에서는 gradient descent에 대해 알아보았다.<br>
 다음글에서는 gradient descent의 보완된 버전들에 대해 알아보자.
 
+```toc
 
-
-
-
-
-
-
-
+```
 
