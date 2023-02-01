@@ -1,6 +1,6 @@
 ---
 emoji: 🔮
-title: 6. Gradient Descent 고급편
+title: 6. Gradient Descent 고급편1
 date: '2023-01-30 10:00:00'
 author: tanny
 tags: 
