@@ -1,6 +1,6 @@
 ---
 emoji: 🔮
-title: 5. Gradient Descent
+title: 5. Gradient Descent 하급편
 date: '2023-01-29 10:00:00'
 author: tanny
 tags: 
