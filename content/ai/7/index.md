@@ -1,6 +1,6 @@
 ---
 emoji: 🔮
-title: 6. Gradient Descent 고급편1
+title: 6. Gradient Descent 중급편
 date: '2023-01-30 10:00:00'
 author: tanny
 tags: 
@@ -11,7 +11,7 @@ categories: AI/ML/DL
 ![image](https://user-images.githubusercontent.com/121401159/216079662-0d060637-86d4-4577-b486-f1f2d262591d.png)<br>
 
 [이전글](https://tannybrown.github.io/ai/6/)에서 Gradient Descent에 대해 알아보았다.<br>
-이번글에서는 Gradient Descent의 가중치 초기화, Gradient Descent의 다른 버전들에 대해 알아보자.<br>
+이번글에서는 Gradient Descent의 가중치 초기화, Gradient Descent의 **발전된** 버전들에 대해 알아보자.<br>
 
 <br>
 
@@ -75,7 +75,7 @@ mini-batch에서도 마찬가지로 비복원 추출을 한다. 그리고 데이
 > 추가로, learning rate도 batch-size에 따라 다르게 설정해주어야 성능이 좋다고 한다.
 
 
-#### 용어정리 : parameter vs hyperparameter
+### 용어정리 : parameter vs hyperparameter
 이쯤에서 용어를 한번 정리하고 가자. <br>
 파라미터는 머신이 스스로 알아내는 변수이다. 우리가 앞서 살펴본, weight와 bias가 해당된다.<br>
 하이퍼 파라미터는 우리가(인간이) 정해주는 변수를 의미한다. learning rate, batch-size, epoch,model architecture가 해당한다.<br>
@@ -98,6 +98,8 @@ overfitting은 test데이터에 너무나 최적화된 것을 의미하는데, �
 
 
 ## 4. 마무리
+![image](https://user-images.githubusercontent.com/121401159/216293083-e1a0567a-a915-431e-973f-649104747ccc.png)<br>
+
 Gradient Descent의 여러가지 버전에 대해 알아보았다.<br>
 다음글에서는 mini-batch SGD에서 파생된 알고리즘들에 대해 알아보자.
 
