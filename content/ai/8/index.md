@@ -77,7 +77,7 @@ Adam은 앞서 살펴본 Momentum과 RMSProp의 장점을 합친 알고리즘이
 ![image](https://user-images.githubusercontent.com/121401159/216343301-4c2a4fcf-3f78-4612-b779-781576e7d801.png)<br>
 
 이번시간엔 mini-batch에서 발전된 3가지 알고리즘에 대해 살펴보았다.<br>
-다음글에서는 Training data와 Test data에 대해 알아보자.
+[다음글](https://tannybrown.github.io/ai/9/)에서는 Training data와 Test data에 대해 알아보자.
 
 ```toc
 

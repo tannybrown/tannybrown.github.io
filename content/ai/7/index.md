@@ -101,7 +101,7 @@ overfitting은 test데이터에 너무나 최적화된 것을 의미하는데, �
 ![image](https://user-images.githubusercontent.com/121401159/216293083-e1a0567a-a915-431e-973f-649104747ccc.png)<br>
 
 Gradient Descent의 여러가지 버전에 대해 알아보았다.<br>
-다음글에서는 mini-batch SGD에서 파생된 알고리즘들에 대해 알아보자.
+[다음글](https://tannybrown.github.io/ai/8/)에서는 mini-batch SGD에서 파생된 알고리즘들에 대해 알아보자.
 
 
 ```toc
