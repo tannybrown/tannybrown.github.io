@@ -5,6 +5,8 @@ date: '2023-02-05 20:00:00'
 author: tanny
 tags: 
 categories: AI/ML/DL
+
+published : false
 ---
 
 ## 0. 지난 이야기
