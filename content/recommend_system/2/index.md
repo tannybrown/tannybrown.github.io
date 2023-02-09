@@ -66,13 +66,20 @@ categories: 추천시스템
 - 아이템의 인기에 영향을 받아 인기 아이템 추천에 대한 편견이 생길 수 있다.
 
 이러한 장단점을 서로가 보완해줄 수 있지 않을까? 라는 생각에서 출발하여 Hybrid Recommander System이 등장하게 된다.<br>
+> 말그대로 둘을 짬뽕한 것이다.
+
 특히, 협업필터링의 Cold-start문제를 콘텐츠 기반 추천시스템으로 보완해줄 수 있다.
 
 <br><br>
 
 
 ## 5. 그외의 알고리즘들
-앞서 설명한 것이외에도, Context-based Recommendation, Community-based Recommendation, Knowledge-based Recommendation 등이 있다.
+앞서 설명한 것이외에도 
+- Context-based Recommendation 
+- Community-based Recommendation
+-  Knowledge-based Recommendation 
+
+등이 있다.
 또 기회가 된다면 이러한 기타 알고리즘도 다뤄보도록 하겠다.
 <br><br>
 
