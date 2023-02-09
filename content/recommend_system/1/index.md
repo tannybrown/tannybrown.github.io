@@ -85,7 +85,7 @@ categories: 추천시스템
 ![image](https://user-images.githubusercontent.com/121401159/217842132-1c4ab2e7-1093-4ca2-b1ff-ec63f192c1ca.png)
 <br>
 이번 글에서는 추천시스템이 무엇인지, 추천시스템을 이루는 요소등에 대해 알아보았다.<br>
-다음글에서는 아이템 또는 사용자를 점수화하는 추천알고리즘에 대해서 알아보자.<br>
+[다음글](https://tannybrown.github.io/recommend_system/2/)에서는 아이템 또는 사용자를 점수화하는 추천알고리즘에 대해서 알아보자.<br>
 
 
 
