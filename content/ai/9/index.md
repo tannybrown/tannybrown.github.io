@@ -88,3 +88,6 @@ test data는 수능문제니까 건들면 안된다. 그럼 validation data확�
 다음글에서는 역전파에 대해 알아보자.<br>
 
 
+```toc
+
+```
