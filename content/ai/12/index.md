@@ -1,7 +1,7 @@
 ---
 emoji: 🔮
-title: 11. 이진분류 (feat.sigmoid를 쓰는 이유)
-date: '2023-02-10 22:00:00'
+title: 11. 이진분류 하편 (feat.sigmoid를 쓰는 이유)
+date: '2023-02-11 00:00:01'
 author: tanny
 tags: 
 categories: AI/ML/DL
