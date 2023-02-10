@@ -99,7 +99,7 @@ unit step function처럼 **무지성 분류**가 아니라는 말이다. sigmoid
 ![image](https://user-images.githubusercontent.com/121401159/218152336-640eb4a9-ebf7-4ada-bda6-924a6f0f9e6a.png)<br>
 
 이번 시간에는 이진분류가 무엇인지, sigmoid를 왜써야하는지 알아보았다.<br>
-다음글에서는 이진분류와 likelihood에 대해 알아보도록 하겠다.
+[다음글](https://tannybrown.github.io/ai/13/)에서는 이진분류와 likelihood에 대해 알아보도록 하겠다.
 
 ```toc
 ```
