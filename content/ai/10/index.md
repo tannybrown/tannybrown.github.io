@@ -85,7 +85,7 @@ DNN을 기억하는가? Deep Neural Network, 깊은 인공신경망을 의미했
 ![image](https://user-images.githubusercontent.com/121401159/217774241-fa17e450-2a13-49b7-b0c6-cf8095743426.png)<br>
 
 이번시간에는 순전파, 역전파에 대해 살펴보았다.<br>
-다음글에서는 이진분류로 돌아오겠다.<br>
+[다음글](https://tannybrown.github.io/ai/11/)에서는 non-linear activation으로 돌아오겠다.<br>
 
 ```toc
 
