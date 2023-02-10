@@ -75,7 +75,7 @@ unit step function은 우리가 일전에 봤으니 설명은 생략하고 sigmo
 
 ## 4. 마무리
 이번글에서는 non-linear activation을 써야하는 이유에 대해 알아보았다.<br>
-다음글에서는 이진분류에 대해 알아보도록 하자.
+[다음글](https://tannybrown.github.io/ai/12/)에서는 이진분류에 대해 알아보도록 하자.
 <br>
 <br>
 ```toc
