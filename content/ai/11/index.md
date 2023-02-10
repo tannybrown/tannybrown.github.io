@@ -55,6 +55,19 @@ linear activation은 입출력의 크기를 변하지 않게 하는 장점이 �
 <br>
 
 ## 3. Non-linear activation
+이러한 linear activation의 한계가 있기때문에, 우리는 non-linear activation을 같이 사용한다.<br>
+대표적인 non-linear activation으로는 unit step fuction, sigmoid 등이 있다.<br>
+![image](https://user-images.githubusercontent.com/121401159/218089610-0e3216e4-efc6-40dc-8620-b331da1ee99b.png)
+![image](https://user-images.githubusercontent.com/121401159/218089725-0858eb69-5ea0-405f-af66-e86907006c1b.png)<br>
+
+
+unit step function은 우리가 일전에 봤으니 설명은 생략하고 sigmoid는 다음글에서 다룰 예정이다.
+
+<br>
+
+> 그렇다고 linear activation이 꼭 안좋고 나쁜것만은 아니다.
+> Trade-Off는 언제나 존재한다.<br>
+> 일반적으로 복잡한 작업에는 non-linear activation이 선호되는 반면, 입력과 출력 사이의 선형 관계를 원하는 간단한 회귀 문제에는 linear activation이 유용하다.
 
 
 <br>
