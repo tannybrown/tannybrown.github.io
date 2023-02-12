@@ -1,6 +1,6 @@
 ---
 emoji: 🔮
-title: 11. 이진분류 (하)편 (feat.log-likelihood)
+title: 12. 이진분류 (하)편 (feat.log-likelihood)
 date: '2023-02-11 00:00:01'
 author: tanny
 tags: 
