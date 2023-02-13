@@ -11,6 +11,7 @@ categories: AI/ML/DL
 [이전글](https://tannybrown.github.io/ai/12/)에서 이진분류가 무엇인지, sigmoid를 왜쓰는지 알아봤다.<br>
 이번글에서는 sigmoid를 이용한 이진분류에 대해서 좀더 깊숙히 알아가보자.
 
+
 <br>
 <br>
 
