@@ -78,7 +78,7 @@ Universal Approximation Theorem은 인공신경망의 근간이 되는 이론으
 
 universal approximation theorem을 이용하면, 어떤 연속함수든 근사해낼 수 있었다.<br>
 이러한 정리를 바탕으로 인공신경망을 통해서 우리는 (overfitting이 일어나지 않게)잘 학습만 시키면 된다는 것을 알 수 있다.<br>
-다음글에서는 인공신경망의 문제점들에 대한 이야기를 다뤄보겠다. 
+[다음글](https://tannybrown.github.io/ai/16/)에서는 인공신경망의 문제점들에 대한 이야기를 다뤄보겠다. 
 
 
 ```toc

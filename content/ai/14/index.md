@@ -113,7 +113,7 @@ cross-entropy는 다음과 같이 정의된다.<br>
 ## 5. 마무리
 갈수록 참 어렵다.<br>
 우선 오늘은 다중 분류를 살펴보았으나, 왜 이러한 activation, 이러한 structure, 이러한 loss를 썼는지에 대한 고찰을 더 해보는 시간을 가져야할 것 같다.<br>
-다음엔 universal approximation theorem을 다뤄보겠다.
+[다음엔](https://tannybrown.github.io/ai/15/) universal approximation theorem을 다뤄보겠다.
 
 ```toc
 ```
