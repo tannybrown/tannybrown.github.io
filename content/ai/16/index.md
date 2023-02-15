@@ -90,7 +90,7 @@ ReLU 자매품이 다양하다. 관심이 있다면 하나씩 검색해서 살�
 ![image](https://user-images.githubusercontent.com/121401159/219026480-1fca0e25-5b18-4b8c-98fd-ea8154aeee20.png)<br>
 
 이번글에서는 sigmoid의 한계로인해 새로운 activation ReLU에 대해서 살펴보았다.<br>
-다음글에서는 vanishing gradient를 해결할 다른 방안에 대해서 살펴보자.
+[다음글](https://tannybrown.github.io/ai/17/)에서는 vanishing gradient를 해결할 다른 방안에 대해서 살펴보자.
 
 
 
