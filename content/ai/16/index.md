@@ -1,6 +1,6 @@
 ---
 emoji: 🔮
-title: 15. 깊은 인공신경망의 문제1(feat. vanishing gradient)
+title: 15. 깊은 인공신경망의 문제 1편(feat. vanishing gradient)
 date: '2023-02-15 22:00:00'
 author: tanny
 tags: 
