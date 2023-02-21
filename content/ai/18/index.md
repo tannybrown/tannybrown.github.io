@@ -1,7 +1,7 @@
 ---
 emoji: 🔮
 title: 17. 깊은 인공신경망의 문제 3편(feat. overfitting)
-date: '2023-02-16 20:00:00'
+date: '2023-02-21 20:00:00'
 author: tanny
 tags: 
 categories: AI/ML/DL
