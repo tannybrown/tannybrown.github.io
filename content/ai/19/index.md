@@ -12,3 +12,4 @@ categories: AI/ML/DL
 이번글부터는 CNN (Convolution Neural Network)에 대해 알아보자.<br><br>
 
 
+## 1. CNN 구조
